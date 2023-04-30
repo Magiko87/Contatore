@@ -17,7 +17,6 @@ function setColor(){
     }
 
 
-
 function keysPressed(){
     if(event.key == "ArrowLeft"){
         count.innerHTML--;
