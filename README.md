@@ -1,2 +1,1 @@
-# Count
-Contatore
+Count
